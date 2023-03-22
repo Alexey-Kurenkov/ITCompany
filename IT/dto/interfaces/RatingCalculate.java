@@ -6,5 +6,6 @@ package IT.dto.interfaces;
  */
 @FunctionalInterface
 public interface RatingCalculate {
+
     double calculate();
 }
